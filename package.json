@@ -1,0 +1,20 @@
+{
+    "name": "javascript-preloader",
+    "version": "1.0.0",
+    "description": "A JavaScript Website Preloader.",
+    "main": "gulpfile.js",
+    "dependencies": {
+      "browser-sync": "^2.29.3",
+      "gulp": "^4.0.2",
+      "gulp-concat": "^2.6.1",
+      "gulp-minify-css": "^1.2.4",
+      "gulp-sass": "^5.1.0",
+      "sass": "^1.64.2"
+    },
+    "devDependencies": {
+      "gulp-minify": "^3.1.0"
+    },
+    "author": "Programming with Max",
+    "license": "ISC"
+  }
+  
